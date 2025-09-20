@@ -1,5 +1,6 @@
 # EXP:01 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## Name:Ananda Rakshan K V
+## Reg.No:212223230014
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
